@@ -16,7 +16,7 @@ Senior Software Engineer with 10+ years of experience delivering high-scale, sec
 **Backend & Architecture**
 ![Java](https://img.shields.io/badge/Java_8_--_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-112233?style=for-the-badge&logo=micronaut&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Frontend**
@@ -32,6 +32,8 @@ Senior Software Engineer with 10+ years of experience delivering high-scale, sec
 
 **Databases & Event Streaming**
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=for-the-badge&logo=amazonsns&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
