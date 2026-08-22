@@ -4,11 +4,9 @@
 
 Senior Software Engineer with 10+ years of experience delivering high-scale, secure, and resilient systems for fintech and global education platforms. Proven expertise in backend architecture, cloud infrastructure, microservices, and frontend development, combined with technical leadership, mentoring, and strategic platform design. Experienced in guiding distributed teams, implementing CI/CD pipelines, and ensuring high availability for millions of daily active users.
 
-- 🔭 **Currently:** Software Engineer at **McGraw Hill**, building mission-critical backend platforms and automated release pipelines.
-- 🏛️ **Previous Experience:** Former Staff Software Engineer at **PicPay** and Software Architect at **Betha Sistemas**.
-- 🎯 **Technical Focus:** High-Throughput Microservices, Event-Driven Systems, System Reliability, and Developer Experience.
-- 💬 **Core Expertise:** Java 8+, Spring Boot, AWS, Kubernetes, Event Streaming (Kafka/SQS), and Platform Engineering.
-
+- 🔭 **Focus:** Scalable Microservices, Event-Driven Architecture, and Cloud Engineering.
+- 🎯 **Specialization:** Building resilient, high-throughput backend platforms serving millions of users.
+- 💬 **Core Tech:** Java 8+, Spring Boot, AWS, Kubernetes, Terraform, and Distributed Messaging.
 ---
 
 ### 💻 Core Skills & Technologies
