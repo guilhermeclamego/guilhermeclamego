@@ -7,7 +7,7 @@ Senior Software Engineer with 10+ years of experience delivering high-scale, sec
 - 🔭 **Currently:** Software Engineer at **McGraw Hill**, building mission-critical backend platforms and automated release pipelines.
 - 🏛️ **Previous Experience:** Former Staff Software Engineer at **PicPay** and Software Architect at **Betha Sistemas**.
 - 🎯 **Technical Focus:** High-Throughput Microservices, Event-Driven Systems, System Reliability, and Developer Experience.
-- 💬 **Core Expertise:** Java 17+, Spring Boot, AWS, Kubernetes, Event Streaming (Kafka/SQS), and Platform Engineering.
+- 💬 **Core Expertise:** Java 8+, Spring Boot, AWS, Kubernetes, Event Streaming (Kafka/SQS), and Platform Engineering.
 
 ---
 
